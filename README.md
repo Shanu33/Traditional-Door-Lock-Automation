@@ -1,3 +1,3 @@
 # Traditional-Door-Lock-Automation
 
-<p><i> Traditional locks are secure but have limitations like lost keys and no remote access. This project upgrades a padlock using IoT, microcontrollers, wireless modules, and a motor-driven linear actuator for remote control. It enhances, not replaces, the existing lock system. The goal is to build a low-cost, user-friendly smart lock for homes, hostels, and small offices, offering both automation and convenience. <\i><\p>
+<p><i> Traditional locks are secure but have limitations like lost keys and no remote access. This project upgrades a padlock using IoT, microcontrollers, wireless modules, and a motor-driven linear actuator for remote control. It enhances, not replaces, the existing lock system. The goal is to build a low-cost, user-friendly smart lock for homes, hostels, and small offices, offering both automation and convenience. </i></p>
