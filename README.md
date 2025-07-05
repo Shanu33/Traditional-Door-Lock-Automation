@@ -8,7 +8,7 @@
 
 ## 📽️ Live Demo
 
-🔗 [Click here to watch the demo video with autoplay](/)
+🔗 [Click here to watch the demo video with autoplay](https://github.com/Shanu33/Traditional-Door-Lock-Automation/blob/main/working%20.mp4)
 
 > *(Replace the above link with your actual GitHub Pages link after enabling Pages)*
 
