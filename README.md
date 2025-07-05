@@ -6,10 +6,20 @@
 
 ---
 
-## 📽️ Live Demo
-
-🔗 [Click here to watch the demo video with autoplay](https://github.com/Shanu33/Traditional-Door-Lock-Automation/blob/main/working%20.mp4)
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Autoplay Smart Lock Demo</title>
+</head>
+<body style="text-align:center; font-family:sans-serif;">
+  <h1>Traditional Door Lock Automation - Demo</h1>
+  <video width="720" controls autoplay muted loop>
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</body>
+</html>
 
 ---
 
