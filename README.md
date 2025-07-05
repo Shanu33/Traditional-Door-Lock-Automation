@@ -15,7 +15,7 @@
 <body style="text-align:center; font-family:sans-serif;">
   <h1>Traditional Door Lock Automation - Demo</h1>
   <video width="720" controls autoplay muted loop>
-    <source src="video.mp4" type="video/mp4">
+    <source src="working.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </body>
