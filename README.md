@@ -19,10 +19,10 @@
 
 ## ⚙️ Tech Stack
 
-- ESP8266 / ESP32 microcontroller  
+- ESP8266 microcontroller  
 - Motor-driven linear actuator  
-- Wireless communication module (e.g., Wi-Fi, Bluetooth)  
-- Power supply (battery/adapter)  
+- Wireless communication module (Wi-Fi)  
+- Power supply (adapter)  
 - Arduino (for prototyping)   
 
 ---
