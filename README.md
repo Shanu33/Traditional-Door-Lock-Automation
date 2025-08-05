@@ -23,8 +23,7 @@
 - Motor-driven linear actuator  
 - Wireless communication module (e.g., Wi-Fi, Bluetooth)  
 - Power supply (battery/adapter)  
-- Arduino (for prototyping)  
-- HTML + CSS (for UI if applicable)  
+- Arduino (for prototyping)   
 
 ---
 
